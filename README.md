@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carloscodes
 - 👀 I’m interested in web development and specialize in helping small businesses get off the ground and on the internet.
-- 🌱 I’m currently learning a lot.
+- 🌱 I’m currently learning App Development.
 - 📫 How to reach me: send me an email at chavarriacarlos18@gmail.com
 
 <!---
