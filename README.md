@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carloscodes
 - 👀 I’m interested in web development and specialize in helping small businesses get off the ground and on the internet.
-- 🌱 I’m currently working on a project most likely.
+- 🌱 I’m currently working on a game changing iOS/Android application built with React Native. 
 - 📫 How to reach me: send me an email at chavarriacarlos18@gmail.com
 
 <!---
