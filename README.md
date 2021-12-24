@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @carloscodes
 - 👀 I’m interested in web development and specialize in helping small businesses get off the ground and on the internet.
-- 🌱 I’m currently working on a game changing iOS/Android application built with React Native. 
+- 🌱 I’m currently working on a mobile application for both iOS/Android. Being built with React Native, firebase, express.
 - 📫 How to reach me: send me an email at chavarriacarlos18@gmail.com
+- 💻 Visit my website: https://carlos-chavarria.web.app
 
 <!---
 carloscodes/carloscodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
